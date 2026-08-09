@@ -186,8 +186,6 @@ The dashboard provides a visual view of:
 
 > 📷 **Dashboard Preview**
 >
-> Add your Power BI dashboard screenshot here:
->
 > <img width="1332" height="728" alt="Screenshot 2026-08-09 132633" src="https://github.com/user-attachments/assets/f9afb5f6-d0f8-4aad-baf3-2f0b9c2e0527" />
 
 ---
